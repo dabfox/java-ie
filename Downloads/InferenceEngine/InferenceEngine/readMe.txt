@@ -22,4 +22,4 @@ Par :
  -BAHATI BAHANULE Lebon
  -RUBAMBURA NANDAKA Daniel
 
-Etudiants en Tech 2 GI, ULPGL - GOMA / FSTA
+Etudiants en Tech 2 GI, ULPGL - GOMA / FSTA 2016
