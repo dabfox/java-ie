@@ -16,10 +16,5 @@ le but est h
 
 Structure des données choisies : chaînes des caractères et listes des chaine des caracrères (ArrayList en java)
 
-code source java programmé sous l'environnement netbeans 8.0 écrit et commenté
-Par : 
- -MWENGEBUTSA WABO Marcellin
- -BAHATI BAHANULE Lebon
- -RUBAMBURA NANDAKA Daniel
+code source java programmé, écrit et commenté sous l'environnement netbeans 8.0 
 
-Etudiants en Tech 2 GI, ULPGL - GOMA / FSTA 2016
