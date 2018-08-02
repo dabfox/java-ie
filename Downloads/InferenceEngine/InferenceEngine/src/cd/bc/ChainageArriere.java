@@ -25,6 +25,7 @@ public class ChainageArriere {
 
     public ChainageArriere(String req, String bc) {
         //initialisation
+        //agenda, une analogie à CLIPS
         agenda = new ArrayList<>();
         regles = new ArrayList<>();
         impliquee = new ArrayList<>();
@@ -35,6 +36,7 @@ public class ChainageArriere {
     }
 
     //Mise en place des valeurs initiales pour le chainage arrière
+    //Chainage arrière ou encore backward chaining algorithm
     public static void init(String bc) {
         agenda.add(requete);
         // decoupage de la bc en propositions
